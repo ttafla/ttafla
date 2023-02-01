@@ -1,13 +1,18 @@
-### Hi there 👋
+### My name is Tania aka @ttafla 👋
+
+- 🔭 My background is in the medical field and Linguistics
+- - I'm also a Portuguese Interpreter
+- - 🌱 I’m currently learning data analytics at Coursera, a global online platform.
+
+- - 😄 Pronouns: she/her
 
 <!--
 **ttafla/ttafla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my degree
-- 🌱 I’m currently learning data analytics
-- 👯 I’m looking to collaborate on ...
+- 🔭 My background is in the medical field and Linguistics
+- 🌱 I’m currently learning data analytics at Coursera a global online platform.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
