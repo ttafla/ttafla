@@ -3,6 +3,7 @@
 - 🔭 My background is in the medical field and Linguistics
 - - I'm also a Portuguese Interpreter
 - - 🌱 I’m currently learning data analytics at Coursera, a global online platform.
+- My next goal is to lear Python and continue to dive into data analytics world.
 
 - - 😄 Pronouns: she/her
 
