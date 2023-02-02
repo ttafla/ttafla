@@ -5,7 +5,7 @@
 - 🌱 In order to make tech careers more accessible, Google offers online certificate programs through Coursera. I have decided to challenge my brain and am currently learning data analytics at this online platform.
 - My next goal is to learn Python and continue to dive further into the data analytics world.
 
-- - 😄 Pronouns: she/her
+- 😄 Pronouns: she/her
 
 <!--
 **ttafla/ttafla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
