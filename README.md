@@ -2,8 +2,8 @@
 
 - 🔭 My background is in the medical field and Linguistics
 - - I'm also a Portuguese Interpreter
-- - 🌱 To make tech careers more accessible, Google offers online certificate programs through Coursera. I have decided to challenge my brain and I’m currently learning data analytics at this online platform.
-- My next goal is to lear Python and continue to dive into data analytics world.
+- 🌱 In order to make tech careers more accessible, Google offers online certificate programs through Coursera. I have decided to challenge my brain and am currently learning data analytics at this online platform.
+- My next goal is to learn Python and continue to dive further into the data analytics world.
 
 - - 😄 Pronouns: she/her
 
